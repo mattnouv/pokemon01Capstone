@@ -1,3 +1,30 @@
+Matthew Nouv API Project Proposal 
+01/09/2024
+
+Pokemon Codex will be a front-end UI. It will be a full-responsive design as it can decrease and increase relative to screen ratio for web and mobile. Fetch data with Restful API. The goal is to achieve basic search by name or serial number and pull up description context to any pokemon, respectively.
+
+DataSchema:
+
+<b>Page01 Pokemon : </b>
+<br>Name
+<br>Type
+<br>Serial
+<br>Background-color
+
+<b>Page02 Codex :</b>
+<br>Name
+<br>Type
+<br>Serial
+<br>Background-color
+<br>Base Information Stats
+<br>About / Description
+
+<b>Functionality includes :</b> 
+<br>List scroll
+<br>Click left or right arrow to change pokemon
+<br>Search Input by alphabet or serial
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
